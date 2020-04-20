@@ -1,0 +1,87 @@
+.style {
+  color: black;
+  margin: 30px auto;
+  padding: 0 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 49px;
+}
+.colors {
+  padding: 0 20px;
+  font-size: 25px;
+  margin: 10px auto; 
+}
+.fonts{
+    padding: 0 20px;
+  font-size: 25px;
+  margin: 10px auto; 
+}
+.container {
+  max-width: 100%;
+  border: 2px solid grey;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.blue, .pink, .Mint-Green, .beige{
+  display: inline-block;
+  
+}
+.blue{
+  background-color: #2d5dcc;
+  /*padding: 0 30px;*/
+  width: 32%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+  text-transform: uppercase;
+}
+
+.pink {
+  background-color: #fb6ab5;
+  /*padding: 0 30px;*/
+  width: 32%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+  text-transform: uppercase;
+}
+.Mint-Green {
+  background-color: #6afbc6;
+  /*padding: 0 30px;*/
+  width: 32%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+  text-transform: uppercase;
+}
+.beige {
+  background-color:#fbb36a;
+   width: 30%;
+  height: 100px;
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+  text-transform: uppercase;
+}
+.gears {
+  display: inline-block;
+}
+.monospace {
+  line-height: 2em;
+  margin: 20px auto;
+  width: 50%;
+}
+.palatino {
+  line-height: 2em;
+  margin: 20px auto;
+  width: 50%;
+  float: right;
+}
+.cursive {
+  line-height: 2em;
+  margin: 20px auto;
+}
